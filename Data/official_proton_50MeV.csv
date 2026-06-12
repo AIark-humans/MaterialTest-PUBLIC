@@ -1,0 +1,82 @@
+Material, Thickness (cm), Dose (rad), High Risk Events
+Aluminum Wall 6mm (BaseLine),2,1.25218e-21,1693
+Aluminum Wall 6mm (BaseLine),2.5,1.17098e-21,1617
+Aluminum Wall 6mm (BaseLine),3,1.19232e-21,1621
+Aluminum Wall 6mm (BaseLine),3.5,1.24597e-21,1610
+Aluminum Wall 6mm (BaseLine),4,1.1516e-21,1686
+Aluminum Wall 6mm (BaseLine),4.5,1.13249e-21,1522
+Aluminum Wall 6mm (BaseLine),5,1.06564e-21,1440
+Aluminum Wall 6mm (BaseLine),5.5,9.565e-22,1359
+Aluminum Wall 6mm (BaseLine),6,1.04914e-21,1396
+Aluminum Wall 6mm (BaseLine),6.5,9.31233e-22,1346
+Aluminum Wall 6mm (BaseLine),7,1.00228e-21,1319
+Aluminum Wall 6mm (BaseLine),7.5,9.97959e-22,1235
+Aluminum Wall 6mm (BaseLine),8,9.16539e-22,1268
+Aluminum Wall 6mm (BaseLine),8.5,8.76326e-22,1203
+Aluminum Wall 6mm (BaseLine),9,9.14092e-22,1178
+Aluminum Wall 6mm (BaseLine),9.5,8.97687e-22,1202
+Aluminum Wall 6mm (BaseLine),10,8.44035e-22,1198
+Aluminum Wall 6mm (BaseLine),10.5,7.90729e-22,1140
+Aluminum Wall 6mm (BaseLine),11,7.32011e-22,1076
+Aluminum Wall 6mm (BaseLine),11.5,7.23044e-22,996
+Aluminum Wall 6mm (BaseLine),12,7.51742e-22,1065
+Aluminum Wall 6mm (BaseLine),12.5,7.76889e-22,1099
+Aluminum Wall 6mm (BaseLine),13,6.82365e-22,976
+Aluminum Wall 6mm (BaseLine),13.5,7.02452e-22,997
+Aluminum Wall 6mm (BaseLine),14,7.00225e-22,949
+Aluminum Wall 6mm (BaseLine),14.5,6.37169e-22,1010
+Aluminum Wall 6mm (BaseLine),15,7.10037e-22,996
+HDPE,2,4.17222e-19,343637
+HDPE,2.5,7.07943e-22,906
+HDPE,3,6.95121e-22,938
+HDPE,3.5,6.24415e-22,810
+HDPE,4,5.50388e-22,736
+HDPE,4.5,5.61911e-22,767
+HDPE,5,5.29474e-22,717
+HDPE,5.5,5.28497e-22,649
+HDPE,6,4.87951e-22,708
+HDPE,6.5,4.65765e-22,684
+HDPE,7,4.3457e-22,687
+HDPE,7.5,3.86682e-22,564
+HDPE,8,4.33174e-22,555
+HDPE,8.5,4.1632e-22,623
+HDPE,9,3.52654e-22,568
+HDPE,9.5,3.3642e-22,498
+HDPE,10,3.11626e-22,454
+HDPE,10.5,2.8179e-22,430
+HDPE,11,2.89227e-22,469
+HDPE,11.5,2.32076e-22,462
+HDPE,12,2.47093e-22,424
+HDPE,12.5,2.40035e-22,420
+HDPE,13,2.25265e-22,402
+HDPE,13.5,2.08738e-22,403
+HDPE,14,1.914e-22,382
+HDPE,14.5,2.01674e-22,299
+HDPE,15,1.89644e-22,355
+Composite (27H:13S),2,9.77902e-22,1037
+Composite (27H:13S),2.5,9.05381e-22,1043
+Composite (27H:13S),3,8.04224e-22,974
+Composite (27H:13S),3.5,7.36682e-22,967
+Composite (27H:13S),4,7.08165e-22,921
+Composite (27H:13S),4.5,6.21917e-22,885
+Composite (27H:13S),5,6.14892e-22,789
+Composite (27H:13S),5.5,5.92896e-22,890
+Composite (27H:13S),6,5.36305e-22,863
+Composite (27H:13S),6.5,5.49093e-22,828
+Composite (27H:13S),7,5.15797e-22,759
+Composite (27H:13S),7.5,4.83299e-22,695
+Composite (27H:13S),8,4.66969e-22,590
+Composite (27H:13S),8.5,4.00266e-22,570
+Composite (27H:13S),9,4.31088e-22,631
+Composite (27H:13S),9.5,3.74415e-22,594
+Composite (27H:13S),10,3.64808e-22,535
+Composite (27H:13S),10.5,3.55413e-22,596
+Composite (27H:13S),11,3.30771e-22,472
+Composite (27H:13S),11.5,2.84588e-22,498
+Composite (27H:13S),12,2.72875e-22,421
+Composite (27H:13S),12.5,2.88213e-22,399
+Composite (27H:13S),13,2.56277e-22,415
+Composite (27H:13S),13.5,2.55348e-22,390
+Composite (27H:13S),14,2.6563e-22,404
+Composite (27H:13S),14.5,2.0757e-22,342
+Composite (27H:13S),15,2.02956e-22,297
